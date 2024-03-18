@@ -1,0 +1,23 @@
+body {}
+
+.bg {
+
+
+    background-image: url("williamsburg.png");
+
+    height: 100vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    text-indent: 30px;
+    text-align: left;
+}
+
+#wb {
+    font-size: 87px;
+    color: white;
+}
